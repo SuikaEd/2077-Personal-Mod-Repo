@@ -22,7 +22,7 @@ https://www.nexusmods.com/cyberpunk2077/mods/4885
 https://www.nexusmods.com/cyberpunk2077/mods/7780
 9. Browser Extension  
 https://www.nexusmods.com/cyberpunk2077/mods/10038
-10. Input Loader
+10. Input Loader  
 https://www.nexusmods.com/cyberpunk2077/mods/4575
 
 ## 2 实用类mod

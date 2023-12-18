@@ -30,7 +30,7 @@ https://www.nexusmods.com/cyberpunk2077/mods/4575
 https://www.nexusmods.com/cyberpunk2077/mods/2987
 2. BetterLootMarkers--详细显示地面掉落装备图标
 https://www.nexusmods.com/cyberpunk2077/mods/3486
-3. Real Vendor Names--供应商地图标记名字  
+3. Real Vendor Names--供应商地图标记名字
 https://www.nexusmods.com/cyberpunk2077/mods/4941
 4. Virtual Car Dealer--商店显示购买车辆
 https://www.nexusmods.com/cyberpunk2077/mods/4454

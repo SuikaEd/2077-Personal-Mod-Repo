@@ -1,6 +1,11 @@
 # 2077MOD
 ## 0 指导
-1. https://www.bilibili.com/video/BV1Ab4y1T7Yw/?spm_id_from=333.788  
+1. 参考视频：https://www.bilibili.com/video/BV1Ab4y1T7Yw/?spm_id_from=333.788  
+2. 文字指导：2077MOD比较乱，很多功能性的MOD需要一些前置环境的安装，所以方法如下：
+先安装10个前置MOD；再根据需求安装10个功能性MOD。
+3. 以下Mod均经过2.1版本测试
+3. 本Repo中涉及的MOD均来自Nexusmods网站，已注明网址，版权归原作者所有，如有侵权，请联系我的Github账号
+4. 本Repo合集由Github用户SuikaEd整理
 
 ## 1 前置MOD
 1. redscript  
@@ -25,7 +30,7 @@ https://www.nexusmods.com/cyberpunk2077/mods/10038
 10. Input Loader  
 https://www.nexusmods.com/cyberpunk2077/mods/4575
 
-## 2 实用类mod
+## 2 功能性MOD
 1. Virtual Atelier--衣服试穿
 https://www.nexusmods.com/cyberpunk2077/mods/2987
 2. BetterLootMarkers--详细显示地面掉落装备图标

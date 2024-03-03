@@ -1,6 +1,6 @@
 # 2077MOD
 ---
-注意：目前已不适用版本2.11
+## Repo更新时间：03-03-2024（已适配版本2.12）
 ---
 
 ## 0 指导
@@ -9,7 +9,6 @@
 先安装10个前置MOD；再根据需求安装10个功能性MOD。
 3. 以下Mod均经过2.1版本测试
 4. 本Repo中涉及的MOD均来自Nexusmods网站，已注明网址，版权归原作者所有，如有侵权，请联系我的Github账号
-5. 本Repo合集由Github用户SuikaEd整理
 
 ## 1 前置MOD
 1. redscript  
@@ -29,10 +28,10 @@ https://www.nexusmods.com/cyberpunk2077/mods/3518
 https://www.nexusmods.com/cyberpunk2077/mods/4885
 8. Codeware  
 https://www.nexusmods.com/cyberpunk2077/mods/7780
-9. Browser Extension  
-https://www.nexusmods.com/cyberpunk2077/mods/10038
-10. Input Loader  
+9. Input Loader  
 https://www.nexusmods.com/cyberpunk2077/mods/4575
+10. Browser Extension  
+https://www.nexusmods.com/cyberpunk2077/mods/10038
 
 ## 2 功能性MOD
 1. Virtual Atelier--衣服试穿
@@ -55,3 +54,13 @@ https://www.nexusmods.com/cyberpunk2077/mods/4725
 https://www.nexusmods.com/cyberpunk2077/mods/2388
 10. Auto--自动掠夺当前可接触的非任务道具
 https://www.nexusmods.com/cyberpunk2077/mods/5202
+
+## 3 安装步骤
+1. 打开前置MOD的链接，点击页面右侧黄色“MANUAL”，点击Slow Download，等待下载。
+2. 依次下载全部的前置MOD（共10个），下载完毕后，将所有MOD压缩包一起解压在一个文件夹中，解压文件如“r6”，“bin”等。
+3. 将所有解压出来的文件夹剪切，并粘贴到2077根目录，粘贴的文件夹会和根目录已有文件夹自动合并（根目录在Steam->2077->设置->管理->浏览本地文件）。
+4. （可省略）打开游戏，检验是否报错，如有报错，则在steam中验证游戏完整性
+5. 再按照需求下载功能性MOD，方法同上。
+6. 前置MOD-1(redscript)会要求绑定键位来开启控制台页面，推荐绑定“`”。
+7. 功能MOD-5在ESC的MODS中修改键位、键位数量等。
+7. 运行游戏并检查报错，删除压缩包。
